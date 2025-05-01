@@ -1,0 +1,16 @@
+{
+  "name": "Anime3rb abde",
+  "description": "إضافة لموقع anime3rb.com باللغة العربية",
+  "plugins": [
+    {
+      "name": "Anime3rb abde",
+      "filename": "anime3rb.cs3",
+      "version": "1.0.0",
+      "language": "ar",
+      "url": "https://github.com/Abdennor/Anime3rb_abde/raw/main/builds/anime3rb.cs3",
+      "icon": "",
+      "types": ["anime"],
+      "nsfw": false
+    }
+  ]
+}
