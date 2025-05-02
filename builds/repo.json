@@ -3,6 +3,6 @@
   "description": "إضافة أنمي عربية من موقع anime3rb.com",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/abde-nnor/Anime3rab-abde/blob/main/builds/anime3rb-abde.cs3?raw=true"
+    "https://raw.githubusercontent.com/abde-nnor/Anime3rab-abde/main/builds/anime3rb-abde.cs3"
   ]
 }
